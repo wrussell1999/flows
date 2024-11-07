@@ -3,4 +3,4 @@ namespace: prod
 tasks:
   - id: test
     type: io.kestra.core.tasks.log.Log
-    message: this is too easy
+    message: this is an example
